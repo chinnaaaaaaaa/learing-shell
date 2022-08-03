@@ -26,4 +26,4 @@ we learn bash shell here.
 so the file name can be .bash or even a lot of people still use .sh
 
 i prefer using .sh over .bash
-
+we can excute the script as .bash scripting.sh
