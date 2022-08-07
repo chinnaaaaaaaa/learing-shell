@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-if [abc == ABC]
+if [ abc == ABC ]
  then
     echo both are same
  else
