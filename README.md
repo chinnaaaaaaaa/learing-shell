@@ -9,7 +9,7 @@
 3. print 
 4. variables
 5. functions
-6. Exit status
+6. EXIT status
 7. Conditions
 8. SED editors
 
